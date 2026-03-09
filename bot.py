@@ -2,9 +2,11 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ConversationHandler, ContextTypes
 import os
-TOKEN = os.environ['TOKEN']
-print(TOKEN)  # Testing only, remove later
+from dotenv import load_dotenv
 
+load_dotenv()  # Load variables from .env
+
+TOKEN = os.environ['TOKEN']
 
 CREDITS_GRADES = 1  # Conversation state
 
