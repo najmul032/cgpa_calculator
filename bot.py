@@ -1,8 +1,10 @@
 
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ConversationHandler, ContextTypes
+import os
+TOKEN = os.environ['TOKEN']
+print(TOKEN)  # Testing only, remove later
 
-TOKEN = "8630576455:AAHPiPb4gAz9ay0I3aDKiFsXizG2PcgwcqA"
 
 CREDITS_GRADES = 1  # Conversation state
 
