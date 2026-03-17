@@ -1,8 +1,8 @@
 # 📊 CGPA Calculator Telegram Bot
 
-#Calculate your CGPA instantly using a simple Telegram bot
+**Calculate your CGPA instantly using a simple Telegram bot**
 
-#Bot:https://t.me/diucoverBot
+**Bot:[@diucoverBot](https://t.me/diucoverBot)** 
 
 ---
 
@@ -146,4 +146,4 @@ Your CGPA = 3.73
 
 ## 👤 Author
 
-Developed by Najmul Hassan
+Developed by **Najmul Hassan**
