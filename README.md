@@ -1,7 +1,7 @@
 # 📊 CGPA Calculator Telegram Bot
 
 Calculate your CGPA instantly using a simple Telegram bot
-Bot: @diucoverBot
+Bot:[@diucoverBot]https://t.me/diucoverBot
 
 ---
 
